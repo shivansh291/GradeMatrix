@@ -1,201 +1,70 @@
-Rahul,45,52,70
-Priya,80,85,90
-Aman,30,40,65
-Student_1,49,67,96
-Student_2,77,41,82
-Student_3,42,81,54
-Student_4,55,84,97
-Student_5,73,92,68
-Student_6,92,45,53
-Student_7,53,67,84
-Student_8,57,67,98
-Student_9,45,83,66
-Student_10,45,83,93
-Student_11,58,59,77
-Student_12,87,69,79
-Student_13,70,50,78
-Student_14,74,94,95
-Student_15,58,67,55
-Student_16,37,64,84
-Student_17,56,78,90
-Student_18,87,72,86
-Student_19,36,40,73
-Student_20,58,66,78
-Student_21,78,91,98
-Student_22,64,52,95
-Student_23,72,80,80
-Student_24,36,42,84
-Student_25,94,78,82
-Student_26,55,45,70
-Student_27,67,47,81
-Student_28,46,66,72
-Student_29,92,48,82
-Student_30,56,76,52
-Student_31,78,72,67
-Student_32,59,90,74
-Student_33,83,81,91
-Student_34,61,83,80
-Student_35,93,63,52
-Student_36,76,54,89
-Student_37,62,93,95
-Student_38,94,71,73
-Student_39,50,71,99
-Student_40,49,63,81
-Student_41,81,80,96
-Student_42,85,91,71
-Student_43,78,88,72
-Student_44,89,88,51
-Student_45,86,91,76
-Student_46,91,51,91
-Student_47,37,78,51
-Student_48,71,41,75
-Student_49,85,42,66
-Student_50,41,88,89
-Student_51,55,76,82
-Student_52,43,88,58
-Student_53,73,56,92
-Student_54,52,88,97
-Student_55,38,41,88
-Student_56,59,41,78
-Student_57,94,67,91
-Student_58,48,93,75
-Student_59,84,62,84
-Student_60,92,76,99
-Student_61,43,71,74
-Student_62,60,72,73
-Student_63,87,40,62
-Student_64,36,58,56
-Student_65,54,41,85
-Student_66,62,92,94
-Student_67,81,83,69
-Student_68,94,65,50
-Student_69,41,71,57
-Student_70,78,45,95
-Student_71,42,71,65
-Student_72,81,94,63
-Student_73,69,43,61
-Student_74,48,94,72
-Student_75,51,50,64
-Student_76,70,56,77
-Student_77,84,77,83
-Student_78,74,63,51
-Student_79,38,44,81
-Student_80,36,91,72
-Student_81,40,73,71
-Student_82,88,45,74
-Student_83,76,61,71
-Student_84,38,50,71
-Student_85,88,87,98
-Student_86,63,55,91
-Student_87,52,72,55
-Student_88,60,48,64
-Student_89,78,45,92
-Student_90,68,55,86
-Student_91,44,68,82
-Student_92,70,42,57
-Student_93,48,59,93
-Student_94,65,75,93
-Student_95,82,58,54
-Student_96,49,65,88
-Student_97,42,42,53
-Student_98,48,58,55
-Student_99,57,59,94
-Student_100,94,71,81
-Student_101,91,46,79
-Student_102,74,91,96
-Student_103,55,80,84
-Student_104,50,72,89
-Student_105,79,79,65
-Student_106,52,78,62
-Student_107,81,57,99
-Student_108,87,79,91
-Student_109,58,40,79
-Student_110,60,50,68
-Student_111,59,67,66
-Student_112,94,64,68
-Student_113,94,89,77
-Student_114,94,62,75
-Student_115,79,70,86
-Student_116,75,69,75
-Student_117,63,81,72
-Student_118,49,74,58
-Student_119,79,46,61
-Student_120,35,55,50
-Student_121,59,65,50
-Student_122,41,87,96
-Student_123,43,91,83
-Student_124,58,88,81
-Student_125,35,41,97
-Student_126,78,40,74
-Student_127,42,87,89
-Student_128,58,51,94
-Student_129,45,44,50
-Student_130,85,76,65
-Student_131,51,71,88
-Student_132,42,94,54
-Student_133,69,48,71
-Student_134,69,80,78
-Student_135,67,74,52
-Student_136,93,58,61
-Student_137,39,87,75
-Student_138,76,55,65
-Student_139,73,42,86
-Student_140,92,59,71
-Student_141,75,63,78
-Student_142,62,93,63
-Student_143,41,72,77
-Student_144,43,63,54
-Student_145,42,91,96
-Student_146,46,50,98
-Student_147,68,88,79
-Student_148,67,47,95
-Student_149,82,75,54
-Student_150,89,77,61
-Student_151,57,79,65
-Student_152,58,59,75
-Student_153,71,74,75
-Student_154,69,87,97
-Student_155,78,64,70
-Student_156,74,74,88
-Student_157,56,64,85
-Student_158,61,68,82
-Student_159,69,57,79
-Student_160,35,85,86
-Student_161,69,57,72
-Student_162,71,41,59
-Student_163,81,93,54
-Student_164,48,74,85
-Student_165,37,55,83
-Student_166,35,80,80
-Student_167,39,75,59
-Student_168,60,72,68
-Student_169,89,43,81
-Student_170,48,72,50
-Student_171,73,53,54
-Student_172,61,60,94
-Student_173,43,87,53
-Student_174,49,59,65
-Student_175,49,47,73
-Student_176,60,46,65
-Student_177,76,42,51
-Student_178,94,56,98
-Student_179,47,72,77
-Student_180,85,87,81
-Student_181,66,51,76
-Student_182,73,90,69
-Student_183,83,61,73
-Student_184,86,94,61
-Student_185,66,61,99
-Student_186,38,85,84
-Student_187,64,69,82
-Student_188,71,77,82
-Student_189,57,77,92
-Student_190,73,84,86
-Student_191,79,90,61
-Student_192,49,93,52
-Student_193,77,47,50
-Student_194,63,66,82
-Student_195,70,66,89
-Student_196,47,73,59
-Student_197,66,60,92
-
+Banerjee,86,49,95,55,58,37,56,87,36
+Neha Patil,64,72,36,98,94,55,67,92,56
+Vishal Bose,83,93,76,94,49,96,96,81,96
+Rahul Patil,85,89,98,37,85,41,55,73,52
+Shruti Iyer,38,94,48,43,87,36,94,78,42
+Raj Verma,81,69,70,84,38,36,40,88,38
+Aishwarya Das,88,97,52,78,68,96,48,82,49
+Rahul Ahluwalia,96,74,87,58,60,94,75,63,49
+Jyoti Banerjee,79,99,43,35,42,97,45,42,69
+Anjali Kumar,69,67,39,75,62,41,46,68,67
+Pallavi Bhat,82,57,96,71,78,69,99,81,37
+Sunita Patil,35,39,48,61,43,49,76,85,97
+Priyanka Kapoor,86,38,57,49,77,63,70,47,66
+Gaurav Rao,93,62,100,76,79,96,91,40,62
+Priya Iyer,62,78,64,96,96,35,61,96,37
+Sonam Gupta,61,43,96,71,85,78,58,93,66
+Gaurav Chauhan,86,96,92,86,46,73,36,37,90
+Megha Joshi,93,36,36,88,35,53,36,87,78
+Priyanka Rao,66,66,89,90,51,72,58,45,50
+Vikram Joshi,93,37,54,93,70,53,53,54,86
+Pooja Pandey,67,74,73,35,45,91,84,57,65
+Rahul Singh,76,41,50,94,36,35,82,46,71
+Megha Iyer,66,43,53,82,37,54,58,88,67
+Nitin Desai,58,70,72,59,52,100,88,69,95
+Shilpa Iyer,75,67,67,48,55,82,54,42,41
+Anil Gupta,51,67,82,93,56,64,72,85,88
+Anil Ahluwalia,42,61,61,55,64,62,98,95,82
+Tanvi Reddy,53,38,69,98,83,51,78,64,80
+Ashish Gupta,40,71,58,80,87,94,97,66,67
+Anjali Menon,52,59,88,92,80,58,66,81,57
+Raj Reddy,100,61,36,51,67,43,77,82,73
+Preeti Chatterjee,76,60,84,59,58,47,94,41,91
+Aarav Reddy,70,79,54,99,42,50,48,49,100
+Vishal Das,66,97,85,59,92,97,96,56,92
+Arun Bhat,92,83,86,76,49,88,94,42,87
+Shruti Banerjee,94,39,40,81,89,74,86,50,47
+Aishwarya Iyer,64,53,51,97,53,92,89,96,57
+Anil Reddy,43,46,35,92,35,68,82,35,50
+Jyoti Bhat,95,98,97,56,60,50,85,91,63
+Vikram Desai,81,96,50,82,73,67,57,44,68
+Swati Patil,86,44,53,92,35,38,50,58,36
+Deepak Das,66,58,46,84,69,67,67,95,85
+Arun Menon,77,46,99,67,74,77,78,63,47
+Aishwarya Chauhan,46,80,36,69,42,60,68,41,92
+Raj Chatterjee,63,70,55,70,44,58,98,83,70
+Amit Singh,58,57,96,71,46,89,47,57,64
+Amit Kaur,51,96,47,93,53,83,46,95,53
+Anjali Bose,43,62,86,50,46,59,86,87,57
+Nitin Verma,50,91,73,87,76,92,73,48,39
+Raj Patil,69,52,43,92,51,41,80,47,74
+Rohan Agarwal,76,43,84,61,100,39,63,71,72
+Shruti Ghosh,42,99,51,79,38,70,65,53,95
+Vishal Iyer,88,73,53,73,79,47,92,54,95
+Aditya Menon,73,35,37,96,97,59,90,67,72
+Sneha Bhat,40,92,78,79,66,79,95,81,55
+Priyanka Sharma,70,53,54,91,52,81,83,48,49
+Sneha Menon,65,35,88,37,50,91,46,50,58
+Ashish Banerjee,62,42,70,42,92,94,84,62,75
+Vikram Shah,98,61,97,51,67,63,47,80,69
+Karthik Chatterjee,40,81,59,100,44,90,64,39,67
+Rahul Chauhan,99,52,83,45,60,97,93,61,83
+Amit Joshi,67,35,55,89,40,39,37,87,57
+Karthik Ahluwalia,87,71,51,35,85,79,38,96,99
+Kavita Shah,66,68,73,60,68,88,37,84,46
+Shilpa Ahluwalia,99,88,39,91,51,81,57,48,100
+Aishwarya Verma,85,72,98,72,84,64,85,97,86
+Sonam Mukherjee,72,64,85,39,63,38,44,90,51
+Pooja Kapoor,51,68,40,87,100,77,57,89,50
+Vijay Iyer,42,38,38,90,59,61,66,84,95
+Simran Jain,85,53,55,39,76,95,56,55,35
